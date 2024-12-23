@@ -4,3 +4,11 @@ I have developed a chatbot using the Retrieval-Augmented Generation (RAG) framew
 
 Semantic search leverages embeddings and is well-suited for querying individual documents. In contrast, hybrid search combines semantic search with syntactic search (using TF-IDF) and employs a re-ranking approach. This hybrid method is particularly effective for multi-document queries, where the balance between semantic and syntactic search can be fine-tuned using an adjustable alpha parameter. For instance, I have conducted two demos using custom scenarios with PDFs to showcase the chatbot's functionality.
 
+# Chat-PDFs
+
+## Demo 1
+
+![image1](https://github.com/user-attachments/assets/3033a73c-c96d-4419-8212-cbb886738b52)
+
+
+![image2](https://github.com/user-attachments/assets/e10b842c-5d7f-420a-9490-fa4147413c0f)
