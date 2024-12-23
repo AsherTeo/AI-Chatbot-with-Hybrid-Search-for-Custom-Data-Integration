@@ -14,12 +14,12 @@ Semantic search leverages embeddings and is well-suited for querying individual 
  
  <table>
   <tr>
-      <td><img src="https://github.com/user-attachments/assets/3033a73c-c96d-4419-8212-cbb886738b52" alt="Image 1" width="2000"/></td>
+      <td><img src="https://github.com/user-attachments/assets/3033a73c-c96d-4419-8212-cbb886738b52" alt="Image 1" width="1000"/></td>
   </tr>
    </table>
 
  <table>
   <tr>
-      <td><img src="https://github.com/user-attachments/assets/e10b842c-5d7f-420a-9490-fa4147413c0f" alt="Image 2" width="2000"/></td>
+      <td><img src="https://github.com/user-attachments/assets/e10b842c-5d7f-420a-9490-fa4147413c0f" alt="Image 2" width="1000"/></td>
   </tr>
    </table>
