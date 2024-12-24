@@ -1,0 +1,83 @@
+
+
+/* Sidebar styling with pattern */
+section[data-testid="stSidebar"] {
+    background-color: rgba(56, 195, 188, 0.3); /* Brown color with transparency (alpha: 0.3) */
+    background-image: url('https://raw.githubusercontent.com/AsherTeo/Chatbot/main/images/moroccan-flower.png'); /* Raw URL */
+    background-repeat: repeat; /* Repeat the pattern */
+    background-blend-mode: overlay; /* Blend the background color and image */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+/* Sidebar text color */
+section[data-testid="stSidebar"] * {
+    color: #000000; /* Black text */
+}
+
+/* File uploader styling */
+div[data-testid="stFileUploadDropzone"] {
+    background-color: #d3d3d3 !important; /* Light gray background */
+    border: 2px dashed #ffa500 !important; /* Orange dashed border */
+    border-radius: 8px !important;
+    padding: 10px !important;
+}
+
+div[data-testid="stFileUploadDropzone"] label {
+    font-size: 14px !important; /* Smaller font size for the label */
+    color: #000000 !important; /* Black text */
+}
+
+/* Input field styling (Type in the index name) */
+div[data-testid="stTextInput"] input[type="text"] {
+    background-color: #ffffff !important; /* White background */
+    color: #000000 !important; /* Black text */
+    padding: 8px;
+}
+
+/* Button styling (Processing button) */
+.processing-button {
+    background-color: #ffffff !important; /* White background */
+    color: #000000 !important; /* Black text */
+    border: 2px solid #ffa500 !important; /* Orange border */
+    border-radius: 8px;
+    font-size: 14px !important;
+    padding: 8px 12px;
+}
+
+/* Spinner styling */
+.stSpinner div {
+    color: #000000 !important; /* Black spinner text */
+}
+
+/* Button hover effect */
+div[data-testid="stButton"] button:hover {
+    background-color: #a9a9a9 !important; /* Darker gray on hover */
+}
+
+div[data-testid="stButton"] button:active {
+    color: #000000 !important; /* Black text on active state */
+}
+
+
+div[data-testid="stAppViewContainer"] {
+    background-color: #e6fffe !important; /* Light blue background */
+    color: #000000 !important; /* Black text for overall content */
+}
+
+/* Human Chat */
+.st-emotion-cache-1c7y2kd {
+    flex-direction: row-reverse;
+    background-color: hsla(0, 14%, 96%, 0.266) !important;
+    text-align: left;
+}
+
+/* AI Chat */ 
+
+.st-emotion-cache-4oy321 {
+    flex-direction: row;
+    background-color: rgba(170, 245, 187, 0.891) !important;
+    text-align: left;
+}
+
