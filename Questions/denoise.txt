@@ -1,0 +1,29 @@
+Question1 1:
+
+Explain Noise2Noise in detail
+
+Question 2:
+
+Explain Noise2Void in detail
+
+Question 3:
+
+Explain Zero-Shot Noise2Noise in detail
+
+Question 4a:
+
+List the Pros and Cons of Noise2Noise, Noise2Void, Denoise Vision Transformer in point form
+
+Question 4b:
+
+List the Pros and Cons of Zero-Shot Noise2Noise, Denoised Task Adaptation for Few-Shot Learning in point form
+
+Question 5:
+
+List the difference between noise2noise, noise2void and zero-shot noise2noise in point form
+
+Question 6:
+
+Scenario 1: Which denoising method would be most suitable for me if I have only a few noisy microscopy images (TEM or SEM) and no ground truth, such as clean images? Options include Noise2Noise, Noise2Void, Denoise Vision Transformer, Zero-Shot Noise2Noise, or Denoised Task Adaptation for Few-Shot Learning.
+
+Scenario 2: Which denoising method would be most suitable if I have a few traffic videos recorded by a camera on ABC Road and want to enhance their quality by reducing noise? No ground truth are available. 

@@ -1,0 +1,49 @@
+Question 1:
+
+What is Apache Spark?
+
+Question 2:
+
+What are RDDs, DataFrames, and Datasets in Spark?
+
+
+Question 3:
+
+How do I read a CSV/JSON/Parquet file into a Spark DataFrame using pyspark? Show me the Code
+
+Question 4:
+
+How can I use a CSV file for data visualization with PySpark? Show me the Code
+
+
+Question 5:
+
+How can I group Feature A with Feature B and calculate the sum using PySpark? Show me the Code
+
+
+Question 6:
+
+How can I convert categorical features into one-hot encoding in PySpark? Show me the Code
+
+
+Question 7:
+
+Can you show me an end-to-end example of training and evaluating an SVM model in PySpark with non-libsvm datasets in python? Show me the Code
+
+Question 8:
+
+How can I parallelize data preparation for ML pipelines? Show me the Code
+ 
+
+Question 9:
+
+How do I monitor data drift and model performance in production?
+
+Question 10:
+
+How can I incorporate new real-time data into the training process? Show me the code
+
+Question 11:
+
+What are the symptoms of fever?
+
