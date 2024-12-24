@@ -23,3 +23,10 @@ Semantic search leverages embeddings and is well-suited for querying individual 
 **Objective**: Imagine you are tasked with using PySpark on Databricks to handle big data efficiently by leveraging its parallel processing framework.
 
 **Challenges**: The challenge is that you have no prior knowledge of PySpark, but you possess expertise in machine learning. You aim to apply your machine learning methods in Databricks to handle big data, parallelize the data processing, and leverage PySpark's capabilities effectively, all within a short deadline. 
+
+ <table>
+  <tr>
+      <td><img src="https://github.com/user-attachments/assets/707453b7-503e-41a1-a077-e8b6c0573fc2" alt="Image 2" width="800"/></td>
+  </tr>
+   </table>
+
