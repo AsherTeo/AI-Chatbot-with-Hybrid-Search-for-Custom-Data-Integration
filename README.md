@@ -12,7 +12,7 @@ Semantic search leverages embeddings and is well-suited for querying individual 
 
 **Challenges**: The challenge is that there are only a limited number of videos available, and no ground truth exists for training. Since supervised learning is not feasible without ground truth data, and your knowledge of denoising algorithms is limited in this new domain, you must choose the best approach within a limited time frame. Algorithms like Noise2Noise, Noise2Void, and others are available, but selecting the most suitable one for this specific problem can be overwhelming. This is where a custom chatbot can be particularly useful, helping you navigate through the available methods and guide your decision-making process.
 
-**Full Demo 1 Video**: 
+**Full Demo 1 Video**: https://www.youtube.com/watch?v=7RIIyJJGOR4
 
  <table>
   <tr>
